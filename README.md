@@ -14,4 +14,4 @@ This is my CV Click
 
 
 
-E-mail :e-mail: taemi_kim@kaist.ac.kr
+E-mail :e-mail: xoal9797@gmail.com (taemi_kim@kaist.ac.kr)
