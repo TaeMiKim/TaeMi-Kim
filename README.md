@@ -10,7 +10,7 @@
 - Data Science
 
 ### :pushpin: CV
-This is my CV Click
+This is my CV [Click]()
 
 
 
